@@ -11,5 +11,5 @@ version          "3.3.2"
 end
 
 depends "java", ">= 1.15.4"
-depends "chef_nginx", ">= 3.1.1"
+depends "chef_nginx", ">= 2.9.0"
 depends "artifact", ">= 1.11.0"
